@@ -1,0 +1,22 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Code fast, die young"
+
+pygmentsCodeFences = true
+
+disqusShortname = "" #Disqus shortname
+googleAnalytics = "" #Google Analytics ID
+
+theme = "kiera"
+
+[author]
+    name = "Yurii Ostapchuk"       #Author name
+    github = "thatwist"     #Github username
+    #gitlab = ""     #Gitlab username
+    #linkedin = ""   #LinkedIn username
+    facebook = "twisttwist"   #Facebook username
+    twitter = "twist522"    #Twitter username
+    instagram = "twist522"  #Instagram username
+
+[params]
+    tagline = "Spark, Scala, Data and a pinch of rationalism"
