@@ -2,7 +2,7 @@
 title = "Writing Hugo blog in Org"
 author = ["Yurii Ostapchuk"]
 date = 2017-09-10
-lastmod = 2021-03-21T22:45:32+02:00
+lastmod = 2021-03-21T23:37:48+02:00
 tags = ["hugo", "org"]
 categories = ["emacs"]
 weight = 2001
