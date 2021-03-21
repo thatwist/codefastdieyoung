@@ -1,11 +1,11 @@
-baseURL = "http://example.org/"
+baseURL = "https://blog.codefastdieyoung.org/"
 languageCode = "en-us"
 title = "Code fast, die young"
 
 pygmentsCodeFences = true
 
-disqusShortname = "" #Disqus shortname
-googleAnalytics = "" #Google Analytics ID
+disqusShortname = "blog-codefastdieyoung-xyz" #Disqus shortname
+googleAnalytics = "UA-28956594-2" #Google Analytics ID
 
 theme = "kiera"
 
@@ -13,7 +13,7 @@ theme = "kiera"
     name = "Yurii Ostapchuk"       #Author name
     github = "thatwist"     #Github username
     #gitlab = ""     #Gitlab username
-    #linkedin = ""   #LinkedIn username
+    linkedin = "yurii-ostapchuk"   #LinkedIn username
     facebook = "twisttwist"   #Facebook username
     twitter = "twist522"    #Twitter username
     instagram = "twist522"  #Instagram username
