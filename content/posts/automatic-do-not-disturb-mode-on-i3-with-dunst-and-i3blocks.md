@@ -1,10 +1,9 @@
 +++
 title = "automatic do-not-disturb mode on i3 with dunst and i3blocks"
 author = ["Yurii Ostapchuk"]
-publishDate = 2021-03-12T00:00:00+02:00
-lastmod = 2021-03-21T23:37:49+02:00
-weight = 2002
+lastmod = 2021-04-14T02:42:26+03:00
 draft = true
+weight = 2002
 +++
 
 Wwhat I really like about linux is it's modularity and simplicity
