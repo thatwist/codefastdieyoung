@@ -1,9 +1,9 @@
 +++
 title = "Observation on event-time skew, kafka retention and reprocessing of events with watermark-based streaming aggregation"
 author = ["Yurii Ostapchuk"]
-lastmod = 2021-03-21T23:37:48+02:00
-weight = 2002
+lastmod = 2021-07-23T10:29:15-04:00
 draft = true
+weight = 2002
 +++
 
 one interesting observation on kafka event time skew and reprocessing backlog of events by watermark-based streaming aggregation:

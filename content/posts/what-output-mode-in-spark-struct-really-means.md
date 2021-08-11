@@ -1,9 +1,9 @@
 +++
 title = "What outputMode in Spark Structured Streaming really means"
 author = ["Yurii Ostapchuk"]
-lastmod = 2021-03-21T23:37:48+02:00
-weight = 2001
+lastmod = 2021-07-23T10:29:15-04:00
 draft = true
+weight = 2001
 +++
 
 ## Thesises {#thesises}

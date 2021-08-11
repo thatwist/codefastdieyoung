@@ -1,7 +1,7 @@
 +++
 title = "automatic do-not-disturb mode on i3 with dunst and i3blocks"
 author = ["Yurii Ostapchuk"]
-lastmod = 2021-04-14T02:42:26+03:00
+lastmod = 2021-07-23T10:29:16-04:00
 draft = true
 weight = 2002
 +++

@@ -10,7 +10,7 @@ googleAnalytics = "UA-28956594-2" #Google Analytics ID
 theme = "kiera"
 
 [author]
-    name = "Yurii Ostapchuk"       #Author name
+    name = "Yuri Ostapchuk"       #Author name
     github = "thatwist"     #Github username
     #gitlab = ""     #Gitlab username
     linkedin = "yurii-ostapchuk"   #LinkedIn username
@@ -19,4 +19,4 @@ theme = "kiera"
     instagram = "twist522"  #Instagram username
 
 [params]
-    tagline = "Spark, Scala, Data and a pinch of rationalism"
+    tagline = "Data engineer against procrastination"
