@@ -16,7 +16,7 @@ theme = "kiera"
     linkedin = "yurii-ostapchuk"   #LinkedIn username
     facebook = "twisttwist"   #Facebook username
     twitter = "twist522"    #Twitter username
-    instagram = "twist522"  #Instagram username
+    #instagram = "twist522"  #Instagram username
 
 [params]
     tagline = "Data engineer against procrastination"
