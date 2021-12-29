@@ -28,3 +28,4 @@
 [submodule "themes/kiera"]
 	path = themes/kiera
 	url = https://github.com/funkydan2/hugo-kiera
+	branch = master
