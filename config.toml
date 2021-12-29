@@ -20,3 +20,4 @@ theme = "kiera"
 
 [params]
     tagline = "Data engineer against procrastination"
+    disableDarkModeCSS = true # disables css style for users using dark-mode
