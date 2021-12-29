@@ -1,6 +1,6 @@
-[submodule "themes/kiera"]
-	path = themes/kiera
-	url = https://github.com/funkydan2/hugo-kiera
+# [submodule "themes/kiera"]
+# 	path = themes/kiera
+# 	url = https://github.com/funkydan2/hugo-kiera
 # [submodule "themes/PaperMod"]
 # 	path = themes/PaperMod
 # 	url = https://github.com/adityatelange/hugo-PaperMod.git
