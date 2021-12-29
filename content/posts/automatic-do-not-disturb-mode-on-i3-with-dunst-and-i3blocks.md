@@ -1,7 +1,7 @@
 +++
 title = "automatic do-not-disturb mode on i3 with dunst and i3blocks"
-author = ["Yurii Ostapchuk"]
-lastmod = 2021-07-23T10:29:16-04:00
+author = ["Yuri Ostapchuk"]
+lastmod = 2021-12-29T00:46:30-06:00
 draft = true
 weight = 2002
 +++
@@ -19,7 +19,7 @@ sometimes it can be personal leak
     -   fortunately provides toggle, lets use it
 -   i3blocks
     -   (use icons / make sure font)
--   cron & determine camera on
+-   cron &amp; determine camera on
     ok what's left, in general I want always go into do-not-disturb when on meeting
     this requires determining state of the camera
 

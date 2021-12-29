@@ -1,7 +1,7 @@
 +++
 title = "how to manage cursors in i3"
-author = ["Yurii Ostapchuk"]
-lastmod = 2021-07-23T10:29:16-04:00
+author = ["Yuri Ostapchuk"]
+lastmod = 2021-12-29T00:46:29-06:00
 draft = true
 weight = 2001
 +++

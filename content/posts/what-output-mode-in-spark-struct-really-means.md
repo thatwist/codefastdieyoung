@@ -1,7 +1,8 @@
 +++
 title = "What outputMode in Spark Structured Streaming really means"
-author = ["Yurii Ostapchuk"]
-lastmod = 2021-07-23T10:29:15-04:00
+author = ["Yuri Ostapchuk"]
+lastmod = 2021-12-29T00:46:29-06:00
+tags = ["data", "structuredstreaming"]
 draft = true
 weight = 2001
 +++
@@ -11,7 +12,7 @@ weight = 2001
 provide some facts that are rather unclear from documentation and api but available only when looking into code
 
 -   (first, ref to table in spark docs)
--   if no aggregations - Update <=> Append, Complete is not available if no aggregations
+-   if no aggregations - Update &lt;=&gt; Append, Complete is not available if no aggregations
 -   !outputMode param in flatMapGroupsWithState - has no real effect, just semantics + UnsupportedOperationChecker
 -   watermark should be available on grouping expression for aggregates (but not flatMapGroups as it is not really an aggregate)
 -   watermark should be availeble in child of groupby for \*mapgroupswithstate

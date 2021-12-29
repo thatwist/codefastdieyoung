@@ -1,13 +1,13 @@
 +++
 title = "how I use gcal and org-mode"
-author = ["Yurii Ostapchuk"]
-lastmod = 2021-07-23T10:29:14-04:00
+author = ["Yuri Ostapchuk"]
+lastmod = 2021-12-29T00:46:29-06:00
 tags = ["gcal", "org"]
 categories = ["emacs"]
 draft = true
-weight = 2002
+weight = 2003
 [menu.main]
-  weight = 2002
+  weight = 2003
   identifier = "how-i-use-gcal-and-org-mode"
 +++
 

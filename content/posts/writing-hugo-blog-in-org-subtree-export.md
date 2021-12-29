@@ -1,19 +1,19 @@
 +++
 title = "Writing Hugo blog in Org"
-author = ["Yurii Ostapchuk"]
+author = ["Yuri Ostapchuk"]
 date = 2017-09-10
-lastmod = 2021-07-23T10:29:14-04:00
+lastmod = 2021-12-29T00:46:28-06:00
 tags = ["hugo", "org"]
 categories = ["emacs"]
 draft = true
-weight = 2001
+weight = 2002
 foo = "bar"
 baz = "zoo"
 alpha = 1
 beta = "two words"
 gamma = 10
 [menu.main1]
-  weight = 2001
+  weight = 2002
   identifier = "writing-hugo-blog-in-org"
 +++
 
