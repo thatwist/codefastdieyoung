@@ -7,7 +7,7 @@ pygmentsCodeFences = true
 disqusShortname = "blog-codefastdieyoung-xyz" #Disqus shortname
 googleAnalytics = "UA-28956594-2" #Google Analytics ID
 
-#theme = "kiera"
+theme = "kiera"
 
 [author]
     name = "Yuri Ostapchuk"       #Author name
