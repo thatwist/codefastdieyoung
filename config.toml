@@ -7,6 +7,8 @@ pygmentsCodeFences = true
 disqusShortname = "blog-codefastdieyoung-xyz" #Disqus shortname
 googleAnalytics = "UA-28956594-2" #Google Analytics ID
 
+enableEmoji = true
+
 theme = "kiera"
 
 [author]
