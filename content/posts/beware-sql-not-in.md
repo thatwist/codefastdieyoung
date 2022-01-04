@@ -1,9 +1,10 @@
 +++
 title = "Beware of SQL `not in (select .. from)` statement.."
 author = ["Yuri Ostapchuk"]
-lastmod = 2022-01-03T19:22:23-06:00
+date = 2022-01-03T19:47:00-06:00
+lastmod = 2022-01-03T19:47:03-06:00
 tags = ["sql", "data"]
-draft = true
+draft = false
 weight = 2003
 [menu.main]
   weight = 2003
