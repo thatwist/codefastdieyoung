@@ -1,9 +1,10 @@
 +++
 title = "use-package bootstrap"
 author = ["Yuri Ostapchuk"]
-lastmod = 2022-02-07T20:34:10-06:00
+date = 2022-02-07T20:37:00-06:00
+lastmod = 2022-02-07T20:37:11-06:00
 categories = ["emacs"]
-draft = true
+draft = false
 weight = 2002
 [menu.main]
   weight = 2002
